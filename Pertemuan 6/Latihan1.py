@@ -16,9 +16,9 @@ class Calculator:
     def divide(self):
         return self.num1 / self.num2
     
-    kalkulator = Calculator(10.5,2.5)
+test = Calculator(10.5,2.5)
 
-    hasilPenjumlahan = kalkulator.add()
-    print("Hasil Penjumlahan:", hasilPenjumlahan)
+hasilPenjumlahan = kalkulator.add()
+print("Hasil Penjumlahan:", hasilPenjumlahan)
 
     
