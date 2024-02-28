@@ -1,5 +1,5 @@
 jawab = 'ya'
-total = 0
+total = 1
 while(jawab.lower()=='ya'):
     angka = int(input('masukkan angka dalam range 0-50: '))
     if (0<=angka<=50):
